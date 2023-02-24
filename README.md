@@ -11,5 +11,3 @@ Student Info
 
 * Student Name: Lai Anh Duc 
 * Student ID: BI12-097
-"First student commt"
-
